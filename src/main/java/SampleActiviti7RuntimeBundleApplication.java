@@ -1,5 +1,3 @@
-package org.activiti.training.sampleactiviti7runtimebundle;
-
 import org.activiti.cloud.starter.rb.configuration.ActivitiRuntimeBundle;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
