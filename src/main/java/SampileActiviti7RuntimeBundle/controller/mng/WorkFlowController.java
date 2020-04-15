@@ -1,4 +1,4 @@
-package controller.mng;
+package SampileActiviti7RuntimeBundle.controller.mng;
 
 
 
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
-import service.api.workflow.WorkflowService;
+import SampileActiviti7RuntimeBundle.service.api.workflow.WorkflowService;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletResponse;

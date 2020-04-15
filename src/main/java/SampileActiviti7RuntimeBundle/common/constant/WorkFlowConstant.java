@@ -1,4 +1,4 @@
-package common.constant;
+package SampileActiviti7RuntimeBundle.common.constant;
 
 /**
  * @ClassName: WorkFlowConstant

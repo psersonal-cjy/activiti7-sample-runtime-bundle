@@ -1,4 +1,4 @@
-package service.impl.workflow;
+package SampileActiviti7RuntimeBundle.service.impl.workflow;
 
 import org.activiti.engine.delegate.DelegateExecution;
 import org.activiti.engine.delegate.Expression;

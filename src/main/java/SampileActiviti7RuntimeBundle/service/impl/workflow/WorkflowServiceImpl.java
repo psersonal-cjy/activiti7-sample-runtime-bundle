@@ -1,7 +1,8 @@
-package service.impl.workflow;
+package SampileActiviti7RuntimeBundle.service.impl.workflow;
 
-import common.constant.WorkFlowConstant;
-import common.utils.EmptyUtil;
+import SampileActiviti7RuntimeBundle.service.api.workflow.WorkflowService;
+import SampileActiviti7RuntimeBundle.common.constant.WorkFlowConstant;
+import SampileActiviti7RuntimeBundle.common.utils.EmptyUtil;
 import org.activiti.engine.HistoryService;
 import org.activiti.engine.RepositoryService;
 import org.activiti.engine.RuntimeService;
@@ -17,7 +18,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.ContextLoader;
 import org.springframework.web.context.WebApplicationContext;
-import service.api.workflow.WorkflowService;
 
 import javax.annotation.Resource;
 import java.io.IOException;

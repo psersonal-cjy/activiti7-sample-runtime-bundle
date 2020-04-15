@@ -1,4 +1,4 @@
-package common.utils;
+package SampileActiviti7RuntimeBundle.common.utils;
 
 import java.util.Collection;
 

@@ -1,4 +1,4 @@
-package service.api.workflow;
+package SampileActiviti7RuntimeBundle.service.api.workflow;
 
 import java.io.InputStream;
 
